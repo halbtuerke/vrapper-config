@@ -1,1 +1,9 @@
 inoremap <C-f> <RIGHT>
+set ignorecase
+set smartcase
+set hlsearch
+set incsearch
+set cursorline
+set clipboard=unnamed,unnamedplus
+set contentassistmode
+set startnormalmode
